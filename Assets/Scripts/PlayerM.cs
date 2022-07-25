@@ -8,9 +8,9 @@ public class PlayerM : MonoBehaviour
     // Start is called before the first frame update
     Rigidbody2D rb;
     [SerializeField] private float speed = 4;
-    [SerializeField] private float jumpf = 10;
+    [SerializeField] private float jumpf = 4;
     private int jumpKol = 0;
-    [SerializeField] int maxJumps = 2;
+    [SerializeField] int maxJumps = 1;
 
     private Animator animator;
     private Rigidbody2D rigidBody2D;
@@ -39,11 +39,7 @@ public class PlayerM : MonoBehaviour
             doJump = false;
             motion.y = jumpf;
             jumpKol += 1;
-            animator.SetBool("isJumping", true);
             Debug.Log($"b");
-        } else
-        {
-            animator.SetBool("isJumping", false);
         }
 
         if (ground.isGrnd())

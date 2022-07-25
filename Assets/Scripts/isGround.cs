@@ -7,9 +7,9 @@ public class isGround : MonoBehaviour
     // Start is called before the first frame update
     [SerializeField] private bool isGnd = false;
     public bool isGrnd() => isGnd;
-    private Collider3D gndc = null;
+    private Collider2D gndc = null;
 
-    private void OnCollisionEnter3D(Collision3D collision)
+    private void OnCollisionEnter2D(Collision2D collision)
     {
         
         if (gndc == null)
@@ -19,7 +19,7 @@ public class isGround : MonoBehaviour
         }
     }
 
-    private void OnCollisionExit3D(Collision3D collision)
+    private void OnCollisionExit2D(Collision2D collision)
     {
         if (gndc == collision.collider)
         {
