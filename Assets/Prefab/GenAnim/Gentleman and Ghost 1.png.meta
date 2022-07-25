@@ -1,0 +1,1823 @@
+fileFormatVersion: 2
+guid: 3fcd236bcc468f442bcac496c8e8f94d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 23
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gentleman and Ghost_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 476
+        width: 16
+        height: 23
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3cfd1a0f72df9c4c9a14a8375b37fc8
+      internalID: 1366286743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gentleman and Ghost_1
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 477
+        width: 13
+        height: 22
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d30eb2d8f445243bfa679691c11abb
+      internalID: 860827993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gentleman and Ghost_2
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 478
+        width: 13
+        height: 21
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b538f8e1f94cd4ab7ad19563ce4f39
+      internalID: 1606868700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gentleman and Ghost_3
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 479
+        width: 14
+        height: 20
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6625467bc7932354686ca880952addb8
+      internalID: 1111760613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gentleman and Ghost_4
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 477
+        width: 13
+        height: 22
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2bc1787c4c097e4eb6ff709a6096ecf
+      internalID: 1815554841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gentleman@Stay1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 454
+        width: 23
+        height: 46
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8ca723e0b6648448c9e72f5f7976bf
+      internalID: -1359745404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gentleman@Hit
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 454
+        width: 30
+        height: 46
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad982a57b1adff40a9907f3ec16abab
+      internalID: 959338159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gentleman and Ghost_7
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 437
+        width: 18
+        height: 16
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d107d22306c4dd145943b0ab61e415cc
+      internalID: -216893050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gentleman and Ghost_8
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 437
+        width: 13
+        height: 19
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d57906f51bb6f4b8d3b55615c0fa80
+      internalID: 374616060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gentleman and Ghost_9
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 436
+        width: 19
+        height: 15
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e11203ffcfde4b4eb5aeffabe9efd79
+      internalID: -1222859450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gentleman@Stay2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 404
+        width: 23
+        height: 46
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f88c92e9b5881489ade340b551be7b
+      internalID: 590298133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gentleman@Jump1
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 404
+        width: 23
+        height: 47
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39f6ba35f74d984ba6a1a8bc7ef1729
+      internalID: -224902326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gentleman@Jump2
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 404
+        width: 23
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7d174881a5b8f4cb97e765c9c2cb2c
+      internalID: -426570301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gentleman@Jump3
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 404
+        width: 29
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac2bcc4d7c05c2429abc6adef586844
+      internalID: 1784455205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gentleman and Ghost_15
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 435
+        width: 22
+        height: 12
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821ac465ccb6bf44fb8d178c41e6609a
+      internalID: 288526683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gentleman and Ghost_16
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 387
+        width: 22
+        height: 10
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d657be68ac54a6049a9c4a96428f24f3
+      internalID: -230351022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gentleman and Ghost_17
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 381
+        width: 20
+        height: 14
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca4ea08e8292b34d92d5936d9eaf91e
+      internalID: 893912690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gentleman and Ghost_18
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 377
+        width: 13
+        height: 19
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5b9c815fb1f6b49b308f964f2f59b3
+      internalID: 1522333277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gentleman and Ghost_19
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 377
+        width: 19
+        height: 18
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21812132e1a879a4a87830f529f8cb71
+      internalID: -561969532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gentleman@Stay3
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 354
+        width: 23
+        height: 46
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14859f9c12046794fa9dc857eebc8cda
+      internalID: -1618621607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gentleman@Walk1
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 354
+        width: 22
+        height: 46
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e29c8d63cd35ce747b4fd863d08f4e86
+      internalID: -971638340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gentleman@Walk2
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 354
+        width: 20
+        height: 46
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f7823c4b3e18e478a61c34dfedbcbc
+      internalID: -463088915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gentleman@Walk3
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 354
+        width: 25
+        height: 46
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4418684ed192fdd439f91ef1918b3b07
+      internalID: 1972008599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gentleman@Stay4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 304
+        width: 23
+        height: 46
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b370c22560281a44ba4a6f4ffc672aac
+      internalID: 1819779705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gentleman and Ghost_29
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 321
+        width: 17
+        height: 24
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190d5a54d1649e740961470ac310cdc2
+      internalID: 695679020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gentleman@Fall1
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 304
+        width: 26
+        height: 48
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd9fcf25e9171745b9c08021c0048d6
+      internalID: 351489003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gentleman@Fall2
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 309
+        width: 29
+        height: 44
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf211a6b7f8ea444993c3748e4f6c83e
+      internalID: -522544160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gentleman@Fall3
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 314
+        width: 41
+        height: 32
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140ee8b2e5d517b4fb448b00caa81c4c
+      internalID: 1306812676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gentleman and Ghost_39
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 319
+        width: 22
+        height: 26
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b97fb49f5e49e42875ac9bd3f74fe9
+      internalID: 778794225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gentleman and Ghost_40
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 318
+        width: 31
+        height: 27
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be663cd7e08b214286071f3121da05c
+      internalID: -224600307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gentleman@Fall4
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 304
+        width: 44
+        height: 26
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfef9463a4c4790478423d0198aa7fec
+      internalID: 1948084924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gentleman and Ghost_42
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 272
+        width: 25
+        height: 34
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35b32b79feeab2418376d2be193afe6
+      internalID: -1624601804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gentleman and Ghost_43
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 312
+        width: 37
+        height: 45
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7eb09bf9bb63e941a89c04a8776ac5d
+      internalID: -88726226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gentleman and Ghost_44
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 270
+        width: 20
+        height: 28
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ecf97e0d4f8da478a20c5a954b7c1c
+      internalID: -242055881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gentleman and Ghost_45
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 270
+        width: 19
+        height: 30
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d7ad2e4ed7cdd40aabf1abe34f09c6
+      internalID: -1383030233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gentleman and Ghost_46
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 269
+        width: 20
+        height: 34
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac5853cc78d69140a2df8f39446d89a
+      internalID: -679865881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gentleman and Ghost_47
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 243
+        width: 23
+        height: 39
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b1972dc180a524fa4fc2c75d5e6ec5
+      internalID: -1866194507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gentleman and Ghost_48
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 243
+        width: 27
+        height: 39
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f53bbc9ebd8112944b5bfcafbb3347d6
+      internalID: 845598743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gentleman and Ghost_49
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 227
+        width: 16
+        height: 23
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22fe0fff0c06bf64facbfc7e9b1d7cac
+      internalID: -174045504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gentleman and Ghost_50
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 228
+        width: 13
+        height: 22
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ad14347eed3ca42be14b843fe4752c
+      internalID: -956677326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gentleman and Ghost_51
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 229
+        width: 13
+        height: 21
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904fab4f37ee49d4fbaa1c08ed58774f
+      internalID: 870011619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gentleman and Ghost_52
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 230
+        width: 14
+        height: 20
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4627c3af7ad2d4096b52cc63fbb314
+      internalID: -545942428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gentleman and Ghost_53
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 228
+        width: 13
+        height: 22
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e6377e1f54a1c479ffdb426de80873
+      internalID: 742989932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gentleman and Ghost_54
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 193
+        width: 23
+        height: 39
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f21faf387e6e4f4099dd3f53b581a94
+      internalID: -1203611915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gentleman and Ghost_55
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 193
+        width: 21
+        height: 40
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b5659de84a1bb4aaf5f6b91c00bd91
+      internalID: 488987111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gentleman and Ghost_56
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 193
+        width: 23
+        height: 41
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24fbf0c5064b5748b57b40512f3540b
+      internalID: 908614754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gentleman and Ghost_57
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 193
+        width: 44
+        height: 42
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0575925d1fcbcc4e84fdd4d5a6e2ddd
+      internalID: 1994590599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gentleman and Ghost_58
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 186
+        width: 22
+        height: 12
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288f45761c5612f408086fca1060cf28
+      internalID: -1289894510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gentleman and Ghost_59
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 188
+        width: 18
+        height: 16
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec81d9a62bc0ce40aa95c6f73b070f0
+      internalID: 896944649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gentleman and Ghost_60
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 188
+        width: 13
+        height: 19
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e251895294dd44f819a194f85182e3
+      internalID: -594063112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gentleman and Ghost_61
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 187
+        width: 19
+        height: 15
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5937abec64bd84da8450bc562821e3
+      internalID: -734806251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gentleman and Ghost_62
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 138
+        width: 22
+        height: 10
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ce03edb0a342c48b74e18fa638a5e0
+      internalID: 788288717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gentleman and Ghost_63
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 132
+        width: 20
+        height: 14
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91406f9b28562f64e9faa0c029d3ebf7
+      internalID: 2139175379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gentleman and Ghost_64
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 128
+        width: 13
+        height: 19
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aae972da6ed9994c9e21cdccd37f238
+      internalID: -823267470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gentleman and Ghost_65
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 128
+        width: 19
+        height: 18
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72b56117d4c66648a6804ac582c1e84
+      internalID: -2013882924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gentleman and Ghost_66
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 143
+        width: 23
+        height: 39
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658b6edd15be3f447a11dd5e65c73bb8
+      internalID: -1860425278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gentleman and Ghost_67
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 143
+        width: 29
+        height: 39
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12311fae55c995545bf9573bdf4f562d
+      internalID: -1216826444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gentleman and Ghost_68
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 143
+        width: 23
+        height: 39
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5edc3620f2e6c34ca70f2a20f561347
+      internalID: 1917190062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gentleman and Ghost_69
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 143
+        width: 21
+        height: 39
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8348a2c5f4f3e418adc75d8a2232cb
+      internalID: 1320101775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gentleman and Ghost_71
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 93
+        width: 23
+        height: 39
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb54ced8278bbaf4d867e816b62f2e0c
+      internalID: -2122228693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gentleman and Ghost_72
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 93
+        width: 30
+        height: 39
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65f9f7a66b2aa64aa0a374e0cfbd69c
+      internalID: -193909672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gentleman and Ghost_73
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 95
+        width: 29
+        height: 36
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1cf53ca684cf54fa86d63916521eef
+      internalID: 1780852385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gentleman and Ghost_74
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 102
+        width: 40
+        height: 27
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c80e8c66706fb54090be57e1266f4c1
+      internalID: 723958314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gentleman and Ghost_75
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 93
+        width: 44
+        height: 20
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7edf908474b61604d9ac1a4ad2184d38
+      internalID: -1022903504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gentleman and Ghost_76
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 72
+        width: 17
+        height: 24
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2272668bbe4cd5488876319d95cd882
+      internalID: -811279958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gentleman and Ghost_79
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 86
+        width: 13
+        height: 10
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339ae7d0fc414a943b362636604991e5
+      internalID: 856586569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gentleman and Ghost_83
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 70
+        width: 22
+        height: 26
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: befa2081ba468c243878c98d86ddeaeb
+      internalID: -1591222045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gentleman and Ghost_84
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 63
+        width: 31
+        height: 33
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54dd3db2f81acf14eb8ab6d6f04793c9
+      internalID: -1906640921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gentleman and Ghost_85
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 63
+        width: 37
+        height: 45
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4635727ddce13409163cfc33b05073
+      internalID: -1036139058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gentleman and Ghost_86
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 12
+        width: 48
+        height: 64
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47694125b6d367a4ab905194653903e6
+      internalID: 1465276659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gentleman and Ghost_87
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 44
+        width: 32
+        height: 32
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e05d136692d0a5488154b45412bf2a2
+      internalID: -138998302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gentleman and Ghost_88
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 44
+        width: 30
+        height: 30
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a600e1a9f77ced648a5dcb206cb6122b
+      internalID: 801554523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gentleman and Ghost_89
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 21
+        width: 20
+        height: 28
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68427469fb80c0f428044da97bf73845
+      internalID: -1805823612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gentleman and Ghost_90
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 21
+        width: 19
+        height: 30
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f8e426c4a933143a51ebd31197aa47
+      internalID: -1307980460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gentleman and Ghost_91
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 20
+        width: 20
+        height: 34
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9319c6e9f2e364441b31bf97104ffff7
+      internalID: -1542592426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gentleman and Ghost_92
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 26
+        width: 14
+        height: 23
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77409566db771c14c856abb63e36fb26
+      internalID: 445307753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Gentleman and Ghost_88: 801554523
+      Gentleman and Ghost_15: 288526683
+      Gentleman and Ghost_46: -679865881
+      Gentleman and Ghost_43: -88726226
+      Gentleman and Ghost_74: 723958314
+      Gentleman and Ghost_54: -1203611915
+      Gentleman and Ghost_66: -1860425278
+      Gentleman and Ghost_39: 778794225
+      Gentleman and Ghost_84: -1906640921
+      Gentleman and Ghost_63: 2139175379
+      Gentleman and Ghost_58: -1289894510
+      Gentleman and Ghost_49: -174045504
+      Gentleman@Walk3: 1972008599
+      Gentleman and Ghost_77: -1007897012
+      Gentleman and Ghost_32: 1217200463
+      Gentleman@Walk2: -463088915
+      Gentleman and Ghost_56: 908614754
+      Gentleman and Ghost_79: 856586569
+      Gentleman@Jump3: 1784455205
+      Gentleman and Ghost_91: -1542592426
+      Gentleman and Ghost_0: 1366286743
+      Gentleman@Stay3: -1618621607
+      Gentleman@Stay1: -1359745404
+      Gentleman and Ghost_67: -1216826444
+      Gentleman and Ghost_3: 1111760613
+      Gentleman and Ghost_73: 1780852385
+      Gentleman and Ghost_42: -1624601804
+      Gentleman and Ghost_52: -545942428
+      Gentleman and Ghost_33: -1064605141
+      Gentleman and Ghost_18: 1522333277
+      Gentleman and Ghost_16: -230351022
+      Gentleman and Ghost_53: 742989932
+      Gentleman and Ghost_59: 896944649
+      Gentleman and Ghost_60: -594063112
+      Gentleman and Ghost_70: 1365471371
+      Gentleman and Ghost_30: -144610257
+      Gentleman and Ghost_51: 870011619
+      Gentleman@Jump2: -426570301
+      Gentleman and Ghost_48: 845598743
+      Gentleman and Ghost_17: 893912690
+      Gentleman and Ghost_85: -1036139058
+      Gentleman@Stay2: 590298133
+      Gentleman and Ghost_50: -956677326
+      Gentleman@Jump1: -224902326
+      Gentleman@Walk1: -971638340
+      Gentleman and Ghost_92: 445307753
+      Gentleman and Ghost_7: -216893050
+      Gentleman and Ghost_28: -200827431
+      Gentleman and Ghost_24: -1726672351
+      Gentleman and Ghost_4: 1815554841
+      Gentleman and Ghost_75: -1022903504
+      Gentleman and Ghost_62: 788288717
+      Gentleman and Ghost_2: 1606868700
+      Gentleman@Fall3: 1306812676
+      Gentleman and Ghost_36: -1192708756
+      Gentleman and Ghost_27: 974972795
+      Gentleman@Fall1: 351489003
+      Gentleman and Ghost_69: 1320101775
+      Gentleman and Ghost_82: 1347980108
+      Gentleman and Ghost_1: 860827993
+      Gentleman and Ghost_61: -734806251
+      Gentleman@Hit: 959338159
+      Gentleman and Ghost_72: -193909672
+      Gentleman and Ghost_71: -2122228693
+      Gentleman and Ghost_8: 374616060
+      Gentleman@Fall4: 1948084924
+      Gentleman and Ghost_55: 488987111
+      Gentleman@Stay4: 1819779705
+      Gentleman and Ghost_9: -1222859450
+      Gentleman and Ghost_26: -1947089551
+      Gentleman and Ghost_47: -1866194507
+      Gentleman and Ghost_29: 695679020
+      Gentleman and Ghost_76: -811279958
+      Gentleman and Ghost_81: 433684072
+      Gentleman and Ghost_57: 1994590599
+      Gentleman and Ghost_38: 1485337463
+      Gentleman and Ghost_45: -1383030233
+      Gentleman and Ghost_64: -823267470
+      Gentleman@Fall2: -522544160
+      Gentleman and Ghost_65: -2013882924
+      Gentleman and Ghost_89: -1805823612
+      Gentleman and Ghost_83: -1591222045
+      Gentleman and Ghost_86: 1465276659
+      Gentleman and Ghost_68: 1917190062
+      Gentleman and Ghost_14: -28279638
+      Gentleman and Ghost_80: -1966242089
+      Gentleman and Ghost_44: -242055881
+      Gentleman and Ghost_19: -561969532
+      Gentleman and Ghost_78: -1317160805
+      Gentleman and Ghost_87: -138998302
+      Gentleman and Ghost_90: -1307980460
+      Gentleman and Ghost_31: -321871357
+      Gentleman and Ghost_40: -224600307
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
